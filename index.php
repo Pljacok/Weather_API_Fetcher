@@ -1,0 +1,1 @@
+<?php echo 'Weather API Fetcher'; ?>
